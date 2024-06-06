@@ -1,5 +1,5 @@
-This repository contains a Typst template for academic CV,
-and a [demo](cv.pdf) CV of Peter Parker is included.
+This repository includes a Typst template for academic CV
+and a [demo](cv.pdf) CV of Peter Parker.
 
 ![demo](cv.png)
 
