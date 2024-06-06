@@ -14,7 +14,7 @@
       location: "New York City, NY",
       degrees: (
         (
-          "B.S. in Computer Science",
+          "B.S. in Physics",
           (
             datetime(year: 2023, month: 9, day: 1),
             datetime.today(),
@@ -64,7 +64,7 @@
   - Worked under Dr. Curtis Connors' supervision on
     gene splicing and recombinant DNA to replicate stem cell regeneration in
     human tissue.
-  - Conducted multiple successful trials on mice by fully regrowing lost limbs using
+  - Conducted multiple successful trials on mice by fully re-growing lost limbs using
     advanced biochemical techniques such as polymerase chain reaction (PCR),
     gel electrophoresis, and CRISPR-Cas9 gene editing.
   - Collected and analyzed complex genetic data, utilizing bioinformatics
