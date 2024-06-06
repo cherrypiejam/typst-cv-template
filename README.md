@@ -3,5 +3,5 @@ and a [demo](cv.pdf) CV of Peter Parker.
 
 ![demo](cv.png)
 
-Note: some of contents of the demo are borrowed from
+Note: some of the contents of the demo are borrowed from
 [here](https://coda.io/@anni-chai/doc-2-resume-template-draft/peter-parkers-resume-1).
